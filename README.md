@@ -4,6 +4,13 @@ This is a super rough/quick pass on importing archived block data and importing 
 ![Neo4j Screenshot](media/neo4j-screenshot.png)
 
 ## Setup 
+*Requires Python 3.6+*
+
+Install the python requirements: 
+```
+pip3 install -r requirements.txt
+```
+
 Run a Neo4j Container w/o authentication (aka dont deploy this...)
 
 ```
