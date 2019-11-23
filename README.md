@@ -1,5 +1,5 @@
 ## What
-This is a super rough/quick pass on importing archived block data and importing it into the Neo4j Graph Database. 
+This is a super rough/quick pass on taking archived block data and importing it into the Neo4j Graph Database. 
 
 ![Neo4j Screenshot](media/neo4j-screenshot.png)
 
